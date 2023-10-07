@@ -1,0 +1,14 @@
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\bin\Debug\net6.0\FundamentosDesafio.exe
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\bin\Debug\net6.0\FundamentosDesafio.deps.json
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\bin\Debug\net6.0\FundamentosDesafio.runtimeconfig.json
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\bin\Debug\net6.0\FundamentosDesafio.dll
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\bin\Debug\net6.0\FundamentosDesafio.pdb
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\FundamentosDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\FundamentosDesafio.AssemblyInfoInputs.cache
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\FundamentosDesafio.AssemblyInfo.cs
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\FundamentosDesafio.csproj.CoreCompileInputs.cache
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\FundamentosDesafio.dll
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\refint\FundamentosDesafio.dll
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\FundamentosDesafio.pdb
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\FundamentosDesafio.genruntimeconfig.cache
+C:\temp\ws-csharp\DesafioFundamentos\FundamentosDesafio\FundamentosDesafio\obj\Debug\net6.0\ref\FundamentosDesafio.dll
